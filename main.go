@@ -14,7 +14,7 @@ func main() {
 
 	app.Name = Name
 	app.Version = Version
-	app.Author = "devonartis"
+	app.Author = "T. Devon Artis"
 	app.Email = ""
 	app.Usage = ""
 
@@ -23,4 +23,5 @@ func main() {
 	app.CommandNotFound = CommandNotFound
 
 	app.Run(os.Args)
+
 }
