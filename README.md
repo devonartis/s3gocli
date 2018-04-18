@@ -1,4 +1,4 @@
-# s3cli
+# S3 Golang CLI
 
 
 
@@ -26,4 +26,4 @@ $ go get -d github.com/devonartis/s3cli
 
 ## Author
 
-[devonartis](https://github.com/devonartis)
+[T. Devon Artis](https://github.com/devonartis)
