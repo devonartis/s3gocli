@@ -2,4 +2,5 @@ language: go
 
 go:
   - master
+  
   go get ./...
