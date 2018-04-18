@@ -1,6 +1,4 @@
-language: go
-
+language: g0
 go:
   - master
-  
   go get ./...
